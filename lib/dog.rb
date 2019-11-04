@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 class Dog
 
     @@all = [] #stores each instance
