@@ -28,11 +28,3 @@ class Dog
     end
 
 end
-=======
-class Dog 
-  
-  
-  
-  
-  
->>>>>>> 650b3610ba7cee89db4c2ee5a7b2038809217b1e
